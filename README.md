@@ -20,7 +20,7 @@ This project implements a RESTful API for managing train tickets, allowing users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashwinc17/trainicketservice.git
+   git clone https://github.com/ashwinc17/trainticketservice.git
    ```
 
 2. Navigate to the project directory:
